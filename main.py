@@ -6,7 +6,7 @@ x: int = 5
 y: float = 3.5
 
 # Assign One Value to Multiple Variables (choose random names & values).
-var1, var2, var3, var4, var5, var6 = "Wissam"
+var1= var2= var3= var4= var5= var6 = "Wissam"
 print(var1, var2, var3, var4, var5)
 
 # Assign multiple Values to Multiple Variables (choose random names & values).
