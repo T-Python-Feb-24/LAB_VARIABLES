@@ -1,5 +1,10 @@
 TeamName="Hilal"
+print(TeamName)
 x=20
+print(x)
 y=2.5
+print(y)
 var1=var2=var3=30
+print(var1,var2)
 var1,var2="Fai","Arwa"
+print(var1,var2)
